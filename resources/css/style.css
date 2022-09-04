@@ -2,7 +2,7 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-  background-color: #1a1a1a;
+  background-color: black;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -10,4 +10,8 @@ h1 {
   /* text-align: center; */
   color: #fff;
   font-weight: 100;
+}
+
+.cellphone {
+  margin: 50px;
 }
